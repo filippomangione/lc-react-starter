@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Original",
+      "description": "Tomato sauce, mozzarella & oregano",
+      "price": "€ 6.00",
+      "avaiable": true
+    },
+    {
+      "id": 2,
+      "name": "Salami",
+      "description": "Tomato sauce, mozzarella & mild salami",
+      "price": "€ 8.00",
+      "avaiable": true
+    },
+    {
+      "id": 3,
+      "name": "Chicken",
+      "description": "TomaTomato sauce, mozzarella, chicken, pineapple* & bbq sauce",
+      "price": "€ 10.00",
+      "avaiable": true
+    },
+    {
+      "id": 4,
+      "name": "Hawaiian",
+      "description": "Tomato sauce, mozzarella, ham & pineapple",
+      "price": "€ 10.00",
+      "avaiable": false
+    }
+  ]
+}
